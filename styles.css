@@ -1,5 +1,19 @@
 body{
     background-color: bisque;
-    width: 500px;
-    margin: 100px;
+    width: 60vw;
+    margin: 20vw;
 }
+
+.example{
+    width: 60vw
+}
+
+ol{
+    font-weight: bold;
+}
+
+.explanation{
+    margin-left: 1em;
+    font-weight: normal;
+    }
+
